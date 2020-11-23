@@ -1,5 +1,4 @@
-***Beautiful Soup == Library for developers to Connect to URLs, Read, & Interpret the text through HTML.
-***JSoup == Beautiful Soup in Java
+***Beautiful Soup == Library for developers to: Connect to URLs && Interpret the text through HTML. ***JSoup == BSoup for Java
 WEBSITE REFERENCE == https://jsoup.org/cookbook/     <== (Slightly Dated) 
 VIDEO REFERENCE == https://www.youtube.com/watch?v=wzh5TCVnWZQ
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~WEB SCRAPING STEPS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
