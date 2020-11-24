@@ -1,0 +1,3 @@
+Wrothgar, Strength Level = 100
+Intelligence = 35
+Charisma = 65
