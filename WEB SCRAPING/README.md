@@ -1,5 +1,6 @@
-# WEB SCRAPING == Attain Useful Data from Website(s).
-#**Beautiful Soup == Library for developers to: Connect to URLs && Interpret the text through HTML. ***JSoup == BSoup for Java
+# WEB SCRAPING = Get Data from Websites w/  JSoup && uBlock
+**Beautiful Soup == Library for developers to: Connect to URLs && Interpret the text through HTML. ***JSoup == BSoup for Java.
+**uBlock == Used to Find the Name of an HTML on a Webpage. Chrome Extension. "Enter Sample Picker Mode" (Color Sample ICON).
 
 WEBSITE REFERENCE == https://jsoup.org/cookbook/     <== (Slightly Dated) 
 
