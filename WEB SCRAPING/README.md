@@ -1,4 +1,4 @@
-# WEB SCRAPING = Get Data from Websites w/  JSoup && uBlock
+# WEB SCRAPING = Get Data from Websites w/  JSoup && uBlock          NEVER FORGET POLITENESS!! Thread.sleep(2000) to not Overload Server
 **Beautiful Soup == Library that Connects to URLs && Interprets text from HTML. ***JSoup == BSoup for Java.
 
 **uBlock == Used to Find the Name of an HTML on a Webpage. Chrome Extension. "Enter Sample Picker Mode" (Color Sample ICON).
