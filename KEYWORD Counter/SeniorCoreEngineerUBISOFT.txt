@@ -1,0 +1,86 @@
+Ubisoft is composed of over 18,000 talented people located in 55+ development studios and offices across the globe. With more than 80% of our teams dedicated to creation, Ubisoft is the biggest in-house creative force in the industry.
+
+
+Home to the North American Ubisoft headquarters since 1996, Ubisoft San Francisco opened its development studio in 2009 and since developed Rocksmith® and Rocksmith 2014, to teach millions of people how to play guitar and bass. With a song library of over 1,500 songs and 9 years of support the Rocksmith franchise helped millions of players around the world on their musical journey. In 2017, the studio released the critically acclaimed South Park™: The Fractured But Whole™, in collaboration with Trey Parker, Matt Stone, and South Park Digital Studios. The studio is currently working on two unannounced projects.
+
+
+Ubisoft’s worldwide network of video game development studios and business offices work hand-in-hand each day to deliver rich and innovative gaming experiences that reflect the creativity and diversity of their teams. This cross-studio collaboration model means every team member has the opportunity to participate in challenging projects based on iconic brands including Assassin's Creed®, Tom Clancy's Rainbow Six Siege®, Tom Clancy's The Division®, For Honor®, Rabbids®, Rayman®, Watch Dogs®, Far Cry®, The Crew®, Just Dance® and more. Ubisoft is a global leader in the video games and entertainment software industry.
+
+
+Ubisoft is committed to enriching player’s lives with original and memorable gaming experiences. We create worlds where people can express themselves, explore and discover new possibilities.
+
+
+Are you looking to work with enthusiastic experts who are tackling game-changing challenges in entertainment and beyond? At Ubisoft, we offer an open environment where bright ideas are given a chance to shine and everyone is eager to share knowledge.
+
+
+Take entertainment to the next level. Join us and create the unknown.
+
+
+Job Description
+
+Ubisoft Entertainment, a global leader in the video games and entertainment software industry, is currently seeking a full-time Senior Core Engineer. We are looking for a highly talented, motivated and experienced person for a new multiplatform AAA project based in our San Francisco studio.
+
+
+You would be working to design, create, and extend the underlying general and platform-specific systems which bring our games to life. Your work would enable the gameplay developers and our target platforms to shine. You will work on a small collaboration-oriented team where you will have the opportunity to contribute in meaningful ways.
+
+
+WHAT YOU'LL DO
+
+
+Implement system-level and gameplay-supporting systems
+Optimize game code and systems
+Mentor less experienced engineers
+Collaborate with technology director/architect on technical design and feature roll out
+Work with game teams and other engineers to identify systems in need of maintenance, optimization, or refactoring
+Coordinate with other developers to ensure smooth roll out of new features
+Review the work of other engineers and provide mentorship
+Create and maintain technical design documents
+
+Qualifications
+
+WHAT YOU'LL BRING
+
+
+7+ years programming experience
+Shipped at least 4 games as core engineer or equivalent for PS4, PS3, Xbox One, 360, PC, or MacOS
+C/C++, with multi-threaded programming techniques
+Bachelor's degree in software engineering, computer science, or equivalent
+Understanding of low-level optimizations and core subsystems, memory management, cross-platform development
+Experience on several major platforms (PS4, PS3, Xbox One, 360, PC, or MacOS)
+Ability to be self-directed, focused, and detail-oriented.
+Experience with technical requirement certification (Sony, Microsoft, etc.)
+Experience on the new generation of consoles (PS4, Xbox One)
+Understanding of streaming file systems
+Experience in networked gameplay
+High level graphics knowledge using Direct3D or OpenGL
+
+WHAT YOU'LL GET
+
+
+Medical, dental, and vision coverage
+Employer HSA contribution (with enrollment in a HSA eligible medical plan)
+401k match
+Paid vacation, holiday and wellness time
+Fitness, physical, and eSports challenge reimbursements
+Ginger emotional support app for you and your adult dependents with up to 10 sessions per year of video-based therapy and psychiatry services
+Rocket Lawyer online legal service
+Rocket Lawyer online legal service membership
+Paid parental leave
+Paid time off to volunteer
+Pawternity – paid time off to bond with a newly adopted pet
+Sabbatical leave available after 5 years of employment
+Access to all of the latest Ubisoft games for PC
+Generous discount on new Ubisoft games
+
+This opportunity is for you to be a FT Employee of Ubisoft with all our comprehensive benefits while working remotely in the following states where Ubisoft already has offices and/or tax presence: California, Colorado, Connecticut, Georgia, Indiana, Minnesota, New York, North Carolina, Tennessee, Texas, Virginia, Washington
+
+
+Additional Information
+
+Ubisoft is committed to creating an inclusive work environment that reflects the diversity of our player community. We are an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age or disability status and will be kept confidential according to EEO guidelines.
+
+
+Skills and competencies show up in different forms and can be based on different experiences, that's why we strongly encourage you to apply even though you may not have all the requirements listed above.
+
+
+At Ubisoft, you can come as you are. We embrace diversity in all its forms. We’re committed to fostering a work environment that is inclusive and respectful of all differences.
